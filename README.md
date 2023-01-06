@@ -1,4 +1,4 @@
-# endofherobrine
+# The End of Herobrine
 Source code from The End of Herobrine Mod
 
 Optimizing and organizing the mod's code. 
