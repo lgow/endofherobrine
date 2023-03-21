@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this mod
 title: "[Suggestion] Suggestion title here"
 labels: enhancement
-assignees: ''
+assignees: lgow
 
 ---
 

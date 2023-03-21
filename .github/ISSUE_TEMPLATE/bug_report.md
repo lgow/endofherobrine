@@ -1,14 +1,14 @@
 ---
 name: Bug report
 about: Report an unintended behaviour!
-title: "[type the mod version here] bug title here"
+title: "[type the mod version here] and the bug report title here"
 labels: bug
-assignees: ''
+assignees: lgow
 
 ---
 
 **Describe the bug**
-Describe here what is the bug 
+Describe here what the bug is
 
 **To Reproduce**
 If you know, describe here how to reproduce the bug.
@@ -23,6 +23,12 @@ Describe here what's supposed to happen.
 
 **Screenshots**
 If applicable, add screenshots here to help explain your problem.
+If a video is more suitable, send it on the discord channel [#🚨・bug-reports](https://discord.gg/MFDByZfz3q)
+
 
 **Additional context**
 Add here any other context about the bug.
+
+
+___
+**WARNING:** If the report **doesn't give enough info about the bug**, it will be labeled as **invalid** and **closed immediately**.
