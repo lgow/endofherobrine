@@ -1,28 +1,33 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: Bug-Title [Mod-Version]
+title: [Mod version here] Title here
 labels: bug
 assignees: ''
 
 ---
 
-**Mod-Version:** Ex.: 1.18.2-1.0.5
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Mod-Version:** 
+Mod version here
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Describe the bug**
+Bug description here 
+
+**Steps To Reproduce**
+If you know how, describe how to reproduce the bug in the topics below:
 1. 
 2. 
 3. 
 ...
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Expected behavior:**
+What's supposed to happen here
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Log:**
+To find the log: press the windows key, type %appdata%, go to .../.minecraft/logs/, and select the log from when the bug ocurred.
 
-**Additional context**
+**Visual proof:**
+If applicable, add a image or video to clarify what's the issue.
+
+**Additional context:**
 Add any other context about the problem here.
